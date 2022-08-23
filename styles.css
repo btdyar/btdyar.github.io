@@ -1,0 +1,8 @@
+body {
+	background-image: url("./images/graphic_design_is_my_passion.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1, p {
+	font-family: "Comic Sans MS"
+}
