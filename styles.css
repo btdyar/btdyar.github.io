@@ -2,9 +2,10 @@ body {
 	background-image: url("./images/graphic_design_is_my_passion.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
+	font-family: "Noto Sans", sans-serif;
 }
-h1, p {
-	font-family: "Comic Sans MS"
+h1 {
+	text-align:center
 }
 img {
 	width: 20%;
