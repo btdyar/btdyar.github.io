@@ -5,15 +5,32 @@ body {
 	font-family: "Noto Sans", sans-serif;
 }
 h1 {
-	text-align:center
+	text-align: center;
+	color: darkslategray;
+}
+h1:hover {
+	color: black;
+}
+a {
+	text-decoration: none;
+	color: slategray;
+}
+a:hover {
+	color: gray;
 }
 .assignment {
 	display: flex;
 	padding: 10px;
 	margin: 10px;
 	background: whitesmoke;
+	border-radius: 5px;
 }
 .assignment img {
 	width: 200px;
 	height: auto;
+	margin: 10px;
+	border: 0.5px solid whitesmoke;
+}
+.assignment img:hover {
+	border: 0.5px solid slategray;
 }
